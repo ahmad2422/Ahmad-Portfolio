@@ -4,6 +4,7 @@ import "./globals.css";
 import { cn } from "@/lib/utils";
 import Navbar from "@/components/Navbar";
 import { siteConfig } from "./page";
+
 const poppins = Poppins({
   subsets: ["latin"],
   weight: "400",
@@ -16,7 +17,7 @@ const rubik = Rubik({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://mdTaquiImam.vercel.app"),
+  metadataBase: new URL("https://vercel.app"),
   title: {
     default: siteConfig.name,
     template: `%s - Software Engineer`,
@@ -25,22 +26,17 @@ export const metadata: Metadata = {
 
   // added new keywords for seo
   keywords: [
-    "md",
-    "taqui",
-    "imam",
-    "Md",
-    "MD",
-    "TAQUI",
-    "Taqui",
-    "Imam",
-    "Imam",
-    "Md Taqui Imam",
-    "md taqui imam",
-    "mdtaqui",
-    "mdtaquiimam",
-    "taqui imam",
-    "Taqui Imam",
-    "Taquiimam",
+    "muhammad ",
+    "ahmad",
+    "raza",
+    "Muhammad",
+    "Ahmad",
+    "Raza",
+    "Muhammad Ahmad Raza",
+    "muhammadahmad",
+    "muhammadahmadraza",
+    "ahmad raza",
+    "Ahmad Raza",
     "portfolio",
     "web developer",
     "web",
@@ -48,19 +44,19 @@ export const metadata: Metadata = {
     "developer",
     "PROGRAMMER ",
     "programmer ",
-    "MD TAQUI IMAM ",
+    "Muhammad ahmad raza ",
     "website",
-    "@Taquiimam",
-    "Taquiimam",
-    "taqui developer",
+    "@Ahmad2422",
+    "Ahmadraza",
+    "Ahmad developer",
   ],
   authors: [
     {
-      name: "Taqui Imam",
-      url: "https://github.com/taqui-786",
+      name: "Ahmad Raza",
+      url: "https://github.com/ahmad2422",
     },
   ],
-  creator: "Taqui imam",
+  creator: "Ahmad Raza",
 
   openGraph: {
     type: "website",

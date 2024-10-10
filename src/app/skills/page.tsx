@@ -21,12 +21,11 @@ const skillPage = () => {
         {alt:"css", img:css},
         {alt:"js", img:js},
         {alt:"ts", img:ts},
-        {alt:"cplus", img:cplus},
+        
     ]
     const framework = [
         {alt:"react", img:react},
         {alt:"nextjs", img:nextjs},
-        {alt:"scss", img:scss},
         {alt:"tailwind", img:tailwind},
         {alt:"github", img:github},
         {alt:"vscode", img:vscode},

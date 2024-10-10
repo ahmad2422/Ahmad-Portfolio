@@ -20,20 +20,18 @@ const page = () => {
         About me
       </Badge>
       <div className="flex flex-col gap-3">
-       
-          <Heading>
-            Software Engineer And Web <br /> Developer, Based In India.
-          </Heading>
-   
+
+        <Heading>
+        Front-End Web <br /> Developer, Based In Pakistan.
+        </Heading>
+
         <FramerWrapper y={0} x={100} >
           <p className=" font-poppins text-xl w-full text-primary max-sm:text-lg">
-            I am a Full Stack Web Developer from Ramgarh cantt, Jharkhand,
-            India. I love crafting cool web projects and also open-source
-            contribuitions. My biggest achievement lies in my mastery of
-            JavaScript and CSS, ensuring pixel-perfect designs that captivate
-            users. With a keen eye for detail and a commitment to delivery
-            speed, I excel at creating seamless and responsive interfaces that
-            leave a lasting impression.
+            I am a front-end web developer with experience in HTML5, CSS3, JavaScript, React, and Next.js. 
+            Skilled in Git, Redux, Tailwind CSS, and Material UI, with a strong focus on responsive designs 
+            and captivating user experiences. Also experienced in WordPress web development, customizing themes,
+            and integrating payment gateways and user management systems. Continuously building skills in Next.js
+            to build dynamic, efficient web applications
           </p>
         </FramerWrapper>
       </div>
