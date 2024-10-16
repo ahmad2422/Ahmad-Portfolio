@@ -6,7 +6,7 @@ import DownLoadResumeBtn from "@/components/DownLoadResumeBtn";
 import FramerWrapper from "@/components/animation/FramerWrapper";
 export const siteConfig = {
   name: "Ahmad Raza",
-  description: "I am a Passionate Software Developer",
+  description: "I am a Passionate Web Developer",
   ogImage: "https://vercel.app/og-image.png",
   url: "https://vercel.app",
 }
